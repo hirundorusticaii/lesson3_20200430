@@ -1,0 +1,79 @@
+.header{
+  margin: 0;
+  padding: 0;
+  background-color: pink;
+  display: flex;
+  border-bottom: 2px solid black;
+  height: 80px;
+}
+
+.header-list ul{
+  list-style-type: none;
+  display: flex;
+}
+
+.header-list  ul  li {
+  margin: 10px;
+  float: right;
+}
+
+.main-contents{
+  display: flex;
+}
+
+#column{
+  display: flex;
+}
+
+#column-one{
+  width: 65%;
+}
+
+#column-two{
+  width: 35%;
+}
+
+h1{
+  text-align: center;
+}
+
+/* ここまで記述しました */
+
+.header img{
+  width: 187.3px;
+  height: 51.3px;
+  padding: 20px;
+}
+
+.box img{
+  width: 100px;
+  height: 100px;
+}
+
+.ad img{
+  width: 400px;
+  height: 102.6px;
+}
+
+
+#column-one img{
+  width: 280px;
+  height: 396.66px;
+}
+
+#column-one{
+  background-color: blue;
+}
+
+#column-two{
+  background-color: yellow;
+}
+
+.footer{
+  background-color: red;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+}
